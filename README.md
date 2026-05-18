@@ -1,7 +1,3 @@
-# Pipelined-RISC-Processor-Verilog
-A 32-bit five-stage pipelined RISC processor implemented in Verilog HDL with hazard detection, forwarding, stalling, branching, and memory support.
-Here is a professional `README.md` you can copy directly to GitHub:
-
 ````markdown
 # Pipelined RISC Processor in Verilog
 
